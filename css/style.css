@@ -1,0 +1,82 @@
+body {
+    /*background-image: url('../img/loginbg.jpg');  */
+    background-color: #F7F5F2;
+    min-height: 100%;
+}
+
+.para p {
+    margin-bottom: 0;
+}
+
+.login-text{
+    position:relative;
+    top:50px;
+}
+
+.custom-nav {
+    background-color: #205375;
+}
+
+
+.login-form{
+    width: 30%;
+    margin:auto;
+    position: relative;
+    top: 110px;
+    padding: 3%;
+    background: white;
+}
+
+.register-form{
+    width: 50%;
+    margin: auto;
+    position: relative;
+    top: 110px;
+    padding: 2%;
+    background-color: #fff;
+}
+
+.field-gen{
+    padding-top:5px;
+}
+
+.form-pay{
+    width: 50%;
+    padding:20px;
+    margin: auto;
+    background: #fff;
+}
+
+footer {
+    margin-top: 100px;
+}
+
+.form-reg {
+    margin-bottom: 170px;
+}
+
+.form-login {
+    margin-bottom: 175px;
+}
+
+#payment {
+    margin-bottom: 112px;
+}
+
+.cus-font {
+    font-size: 200px;
+}
+
+.invoice-card {
+    padding: 0 8rem;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+}
+
+.tab {
+    display: block;
+    border: 1px solid #333;
+}
